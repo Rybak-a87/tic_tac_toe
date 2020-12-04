@@ -1,6 +1,3 @@
-"""Игра - Крестики нолики"""
-
-
 import os
 import random
 import time
